@@ -1,0 +1,2 @@
+-Run matchsparser.py which uses the GameID.csv to get the match information from TRN API
+-Run filter.py to get the related information from a specific player
